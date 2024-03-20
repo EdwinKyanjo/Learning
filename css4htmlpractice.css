@@ -1,0 +1,118 @@
+
+
+
+/* CSS Colors (same as ones done in W3sexercises html) */
+
+
+/* CSS Backgrounds */
+
+
+body {
+    background-color: lightblue;
+}
+
+/* CSS Borders */
+
+p.dotted {
+    border-style: dotted;
+}
+
+p.dashed {
+    border-style: dashed;
+}
+
+p.solid, p.double, p.groove, p.ridge {
+    border-style: solid; border-style: double; border-style: groove; border-style: ridge;
+}
+
+p.inset, p.outset, p.none, p.hidden, p.mix {
+    border-style: inset; border-style: outset; border-style: none; border-style: hidden; border-style: dotted dashed solid double;
+}
+
+p.one {
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+}
+
+p.two {
+    border-style: solid;
+    border-width: medium;
+    border-color: green;
+}
+
+p.three {
+    border-style: dotted;
+    border-width: 2px;
+}
+
+p.four {
+    border-style: dotted;
+    border-width: thick;
+}
+
+p.five {
+    border-style: double;
+    border-width: 15px;
+}
+
+p.six {
+    border-style: double;
+    border-width: thick;
+}
+
+/* CSS Margins */
+
+div {
+    margin: 70px;
+    border: 1px solid #4caf50;
+}
+
+#one {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightgreen;
+}
+
+/* CSS Padding */
+
+#two {
+    padding: 70px;
+    border: 1px solid #4caf50;
+}
+
+#three {
+    border: 1px solid black;
+    background-color: lightpink;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+
+/* CSS Height/Width */
+
+
+
+/* CSS Box Model */
+
+#four {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+/* CSS Outline */
+
+
+
+/* CSS Text */
+
+
+
